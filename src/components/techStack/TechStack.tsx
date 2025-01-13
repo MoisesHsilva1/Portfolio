@@ -25,9 +25,9 @@ const techIcons = [
 
 function TechStack() {
   return (
-    <main className="flex flex-col justify-center items-center  p-32 gap-12">
-      <h1 className="text-white text-5xl mb-8">Tecnologias</h1>
-      <section className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8">
+    <main className="flex flex-col justify-center items-center p-8 sm:p-16 gap-12">
+      <h1 className="text-white text-3xl sm:text-5xl mb-8">Tecnologias</h1>
+      <section className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8">
         {techIcons.map((icon, index) => (
           <TechStackContent key={index}>{icon}</TechStackContent>
         ))}

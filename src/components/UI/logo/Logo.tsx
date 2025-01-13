@@ -8,6 +8,7 @@ const Logo = () => {
         height="500"
         preserveAspectRatio="xMidYMid meet"
         version="1.0"
+        className="w-full h-auto max-w-xs sm:max-w-md" 
       >
         <defs>
           <clipPath id="571c22798b">

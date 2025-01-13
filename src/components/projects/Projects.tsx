@@ -4,9 +4,9 @@ function Projects() {
   return (
     <>
       <main>
-        <section className="flex flex-col justify-center items-center p-16 mt-36">
-          <h1 className="text-white text-5xl">Projetos</h1>
-          <div className="flex flex-row gap-4 mt-12">
+        <section className="flex flex-col justify-center items-center p-8 mt-36">
+          <h1 className="text-white text-4xl sm:text-5xl">Projetos</h1>
+          <div className="flex flex-col sm:flex-row gap-4 mt-12">
             <ProjectContent
               title="Entrevistando"
               description="Chatbot para preparar jovens para o mercado de trabalho com dicas, orientações e suporte para entrevistas."
