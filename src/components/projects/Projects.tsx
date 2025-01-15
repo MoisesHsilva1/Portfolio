@@ -8,11 +8,6 @@ function Projects() {
           <h1 className="text-white text-4xl sm:text-5xl">Projetos</h1>
           <div className="flex flex-col sm:flex-row gap-4 mt-12">
             <ProjectContent
-              title="Entrevistando"
-              description="Chatbot para preparar jovens para o mercado de trabalho com dicas, orientações e suporte para entrevistas."
-              link="https://github.com/MoisesHsilva1/Entrevistando"
-            />
-            <ProjectContent
               title="BarberShop"
               description="Sistema de agendamento para barbearias, otimizando marcações de horários e a gestão de clientes."
               link="https://github.com/MoisesHsilva1/BarberShop"
@@ -25,7 +20,7 @@ function Projects() {
             <ProjectContent
               title="To-Do-List"
               description="To-do list que auxilia na organização da rotina e na gestão das tarefas diárias, tornando o dia a dia mais produtivo."
-              link="https://github.com/MoisesHsilva1/to-do-list?tab=readme-ov-file"
+              link="https://to-do-list-nu-bay.vercel.app/"
             />
           </div>
         </section>
