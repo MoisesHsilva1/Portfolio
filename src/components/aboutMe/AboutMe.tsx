@@ -6,7 +6,7 @@ import IconGmail from "../UI/icons/IconGmail";
 function AboutMe() {
   return (
     <>
-      <main className="flex justify-center px-4 sm:px-8">
+      <main className="flex justify-center mt-10 px-4 sm:px-8">
         <section className="flex flex-col sm:flex-row justify-start p-6 sm:p-16 bg-[#151515] border-2 border-[#1f1f1f] rounded w-full sm:w-10/12 h-auto">
           <figure className="mb-4 sm:mb-0 sm:mr-4 w-full sm:w-auto">
             <img src={photoProfile} alt="photoProfile" className="w-full sm:h-auto" />

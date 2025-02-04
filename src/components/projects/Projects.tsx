@@ -10,7 +10,7 @@ function Projects() {
             <ProjectContent
               title="BarberShop"
               description="Sistema de agendamento para barbearias, otimizando marcações de horários e a gestão de clientes."
-              link="https://github.com/MoisesHsilva1/BarberShop"
+              link="https://barber-shop-theta-jade.vercel.app/"
             />
             <ProjectContent
               title="Gerador Curriculo"
