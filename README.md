@@ -13,7 +13,7 @@
   <li><code>TypeScript</code></li>
   <li><code>React</code></li>
   <li><code>Vite</code></li>
-  <li><code>CSS</code> (para estilização da interface)</li>
+  <li><code>Tailwind</code></li>
 </ul>
 
 <h2>Demonstração da Aplicação</h2>
