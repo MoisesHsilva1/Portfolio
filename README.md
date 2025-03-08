@@ -21,7 +21,6 @@
 <p><a href="https://portfolio-ruddy-one-19.vercel.app/">Link para acesso do portfolio</a></p>
 
 <h2>Autor</h2>
-<p>Este portfólio foi desenvolvido por <strong>Moisés Henrique</strong>. Você pode conferir mais sobre meu trabalho no meu perfil do GitHub:</p>
 <p align="center">
   <a href="https://github.com/MoisesHsilva1">
     <img loading="lazy" src="https://github.com/MoisesHsilva1/Projeto-E2E/assets/142702205/b1a9e6e2-60b0-4ce6-ba81-edcddd954366" width=115>
