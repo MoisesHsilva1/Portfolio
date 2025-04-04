@@ -14,10 +14,10 @@ function AboutMe() {
           <div className="flex flex-col justify-start items-start gap-6 p-6 font-archivo">
             <p className="text-purple-500 text-xl font-medium">Quem sou eu?</p>
             <h1 className="text-white text-3xl sm:text-4xl font-medium">Moises Henrique</h1>
-            <h2 className="text-white text-lg sm:text-xl">Frontend Developer</h2>
+            <h2 className="text-white text-lg sm:text-xl">FullStack Developer</h2>
             <p className="text-gray-400 text-lg sm:text-xl">
               Olá, meu nome é Moisés Henrique. Sou desenvolvedor com foco em
-              front-end, <br /> com experiência em startups, QA e ensino de
+              front-end e back-end, <br /> com experiência em startups, QA e ensino de
               programação, Meu objetivo é criar <br /> interfaces modernas,
               focando em performance e usabilidade.
             </p>
