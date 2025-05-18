@@ -13,9 +13,9 @@ function Projects() {
               link="https://barber-shop-theta-jade.vercel.app/"
             />
             <ProjectContent
-              title="Gerador Curriculo"
-              description="Gerador de currículo que ajuda jovens a criarem e personalizarem seus currículos de forma rápida e prática."
-              link="https://github.com/MoisesHsilva1/GeradorCurriculoReact"
+              title="E-commerce Bebidas"
+              description="E-commerce foi desenvolvido para ajudar microempreendedores a se digitalizarem, ampliando seu alcance e conquistando mais clientes por meio da tecnologia."
+              link="https://e-comerce-drinks-front.vercel.app/"
             />
             <ProjectContent
               title="To-Do-List"
