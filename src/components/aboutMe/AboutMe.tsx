@@ -18,7 +18,7 @@ function AboutMe() {
             <p className="text-gray-400 text-lg sm:text-xl">
               Olá, meu nome é Moisés Henrique. Sou desenvolvedor com foco em
               front-end e back-end, <br /> com experiência em startups, QA e ensino de
-              programação, Meu objetivo é criar <br /> interfaces modernas,
+              programação, Meu objetivo é criar <br /> aplicações modernas,
               focando em performance e usabilidade.
             </p>
 
